@@ -4,7 +4,7 @@
 
 <p>Tenho 17 anos, moro em Belo Horizonte/MG e sou apaixonada pela tecnologia! Este é o meu canto digital, onde compartilho minha jornada de aprendizado, projetos e descobertas no mundo da TI.</p>
 
-<p>📖 Atualmente estou estudando sobre PHP, e aperfeiçoando meu conhecimento acerca de banco de dados.</p>
+<p>📖 Atualmente estou no 3° ano do ensino médio, me especializando na área de Programação de Computadores.</p>
 
 <p align="center">
 <img width="200px" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"></img>
