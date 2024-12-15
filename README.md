@@ -1,10 +1,14 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Olá! Eu sou a Ana Luiza, estudante de curso técnico na área da informática
+## Olá, eu sou a Ana Luiza!
 
-<p>Tenho 17 anos, moro em Belo Horizonte/MG e sou apaixonada pela tecnologia! Este é o meu canto digital, onde compartilho minha jornada de aprendizado, projetos e descobertas no mundo da TI.</p>
+<p>Tenho 18 anos, moro em Belo Horizonte/MG e sou apaixonada pela tecnologia! Este é o meu canto digital, onde compartilho minha jornada de aprendizado, projetos e descobertas no mundo da TI.
+Recentemente concluí meu curso técnico em Informática com especialização em Programação de Computadores.</p>
 
-<p>📖 Atualmente estou no 3° ano do ensino médio, me especializando na área de Programação de Computadores.</p>
+### 🚀 O que eu faço
+Desenvolvo projetos para praticar e aprender continuamente, como aplicações envolvendo o desenvolvimento de uma rede social, apps para realização e manutenção de estoque e sistemas web.
+
+Estou sempre explorando novas ferramentas e frameworks para expandir minhas habilidades.
 
 <p align="center">
 <img width="200px" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"></img>
